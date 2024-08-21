@@ -101,7 +101,7 @@ show_menu() {
     echo "3) Ver data e hora da primeira e última requisição de um IP"
     echo "4) Filtrar logs por código de status HTTP"
     echo "5) Listar User-Agents únicos"
-    echo "6) Ver ocorrências de uma ferramenta usada por um IP (ex:data e hora do primeiro e ultimo log c/ Nmap) "
+    echo "6) Identifique a primeira e última vez que uma ferramenta específica (ex: Nmap) foi usada por um IP "
     echo "7) Sair"
     read -p "Opção: " OPTION
     case $OPTION in
