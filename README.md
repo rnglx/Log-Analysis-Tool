@@ -7,8 +7,8 @@ git clone https://github.com/rnglx/Analise-de-Logs.git
 
 cd Log-Analysis-Tool/
 
-chmod +x analise-de-log.sh
+chmod +x log_analyzer.sh
 
-./analise-de-log.sh 
+./log_analyzer.sh
 
 --------------------------------------------------------------------------
