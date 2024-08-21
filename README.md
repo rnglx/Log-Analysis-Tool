@@ -5,7 +5,7 @@ Ferramenta para automação de algumas analises basicas de logs
 
 git clone https://github.com/rnglx/Analise-de-Logs.git
 
-cd Analise-de-Logs/
+cd Log-Analysis-Tool/
 
 chmod +x analise-de-log.sh
 
