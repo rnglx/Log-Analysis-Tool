@@ -1,2 +1,2 @@
 # Analise-de-Logs
-Ferramenta para automação de algumas analises de logs
+Ferramenta para automação de algumas analises basicas de logs
